@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/mrren73/tbotv2.0/files"
-	"github.com/mrren73/tbotv2.0/telegram"
+	"github.com/mrren73/tbotpub/files"
+	"github.com/mrren73/tbotpub/telegram"
 	"log"
 	"strconv"
 )
